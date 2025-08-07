@@ -1,7 +1,7 @@
 # Fatima Zahra | My Portfolio Project
 
 ## View the site
-![Website Preview] (screenshot.png)
+![Website Preview] (https://github.com/faty-eng/My-Portfolio-Project/blob/main/screenshot.png)
 
 Welcome to my personal portfolio website!  
 This project showcases who I am, what I can do, and how to contact me.
